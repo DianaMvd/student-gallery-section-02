@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>student gallery</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<p>[Manhattan college goes here]</p>
+	<table width="485">
+		<tr>
+			<td width="74"><a href="../index.html">Home page </a></td>
+			<td width="106"><a href="../about-this-course.html">About this course</a></td>
+			<td width="98"><a href="../class-directory.html">Class Directory</a></td>
+			<td width="68"><a href="../contact-us.html">Contact us</a></td>
+			<td width="115"><a href="../project-guidelines.html">Project Guidelines</a></td>
+		</tr>
+	</table>
+	<!-- TemplateBeginEditable name="Master content area" -->
+	<p>[Content goes here]</p>
+	<!-- TemplateEndEditable -->
+</body>
+</html>
